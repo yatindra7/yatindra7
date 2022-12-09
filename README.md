@@ -1,4 +1,5 @@
-##### Hi there 👋, Yatindra here
+<h1> Hi there 👋, Yatindra here </h1>
+<h2> I am a systems developer, and a writer </h2>
 <!--
 **yatindra7/yatindra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a systems developer, and a writer
 <!-- ![image](https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png) -->
+<p align="center">
 <img src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=400/>
-
+</p>
 
 <!--<h3 align="left">Connect with me:</h3> -->
 <p align="left">
