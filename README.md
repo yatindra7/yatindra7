@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">I am a systems developer, and a writer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
