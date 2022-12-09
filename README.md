@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- ![image](https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png) -->
 <p align="center">
-<img href="https://iit-techambit.in/author/yatindra/" src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=400 href=/>
-<h3> Some of my work @iit-tech-ambit </h3>
+<img href="https://iit-techambit.in/author/yatindra/" src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=400 figcaption="Some of my work @IIT Tech Ambit" href=/>
+<!-- <h3> Some of my work @IIT Tech Ambit </h3> -->
 </p>
 
 <!--<h3 align="left">Connect with me:</h3> -->
