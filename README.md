@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I am a systems developer, and a writer
 ![image](https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png)
-<img src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=100/>
+<img src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=600/>
 
 
 <!--<h3 align="left">Connect with me:</h3> -->
