@@ -1,6 +1,5 @@
 <h1> Hi there 👋, Yatindra here </h1>
-<h2> I am a systems developer, and a writer
-Moving code from old repos on my company handle to here! </h2>
+<h2> I am a systems developer, and a writer. Currently moving code from old repos on my company handle to here! </h2>
 <!--
 **yatindra7/yatindra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
