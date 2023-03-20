@@ -1,4 +1,8 @@
 <h1> Hi there 👋, Yatindra here </h1>
+<p align="center">
+<img href="https://iit-techambit.in/author/yatindra/" src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=400 figcaption="Some of my work @IIT Tech Ambit" />
+<!-- <h3> Some of my work @IIT Tech Ambit </h3> -->
+</p>
 <h2> I am a systems developer, and a writer. Currently moving code from old repos on my company handle to here! </h2>
 <!--
 **yatindra7/yatindra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![image](https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png) -->
-<p align="center">
-<img href="https://iit-techambit.in/author/yatindra/" src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=400 figcaption="Some of my work @IIT Tech Ambit" />
-<!-- <h3> Some of my work @IIT Tech Ambit </h3> -->
-</p>
 
 <!--<h3 align="left">Connect with me:</h3> -->
-<p align="left">
-</p>
 
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yatindra7&show_icons=true&theme=radical&count_private=true&hide=issues)
+</p>
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
