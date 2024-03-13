@@ -3,7 +3,7 @@
 <img href="https://iit-techambit.in/author/yatindra/" src="https://user-images.githubusercontent.com/84220034/206723579-49b3c7ab-5043-4cfe-a648-ba5f9a119cc3.png" alt="My recent article" width=400 figcaption="Some of my work @IIT Tech Ambit" />
 <!-- <h3> Some of my work @IIT Tech Ambit </h3> -->
 </p>
-<h2> I am a systems developer, and a writer. Currently moving code from old repos on my company handle to here! </h2>
+<h2> I am a systems developer, and a writer. Currently moving code from old repos to here! </h2>
 <!--
 **yatindra7/yatindra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--<h3 align="left">Connect with me:</h3> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yatindra7&show_icons=true&theme=radical&count_private=true&hide=issues)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yatindra7&show_icons=true&theme=radical&count_private=true&hide=issues) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatindra7&theme=radical&hide=scss,css,html,jupyter&exclude_repo=epic_tope,OCMS,ocms)
 <!--
 <h3 align="left">Languages and Tools:</h3>
